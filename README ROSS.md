@@ -2,7 +2,7 @@
 
 Link to the telegram bot: http://t.me/pre_ross_bot
 
-![houses prices analytics](/home/valcilio/Downloads/REGRESSION PREDICT.png)
+![houses prices analytics](https://i.ibb.co/Tg5Dfxy/ross-regression.png)
 
 **PREMISES:**
 
