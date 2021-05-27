@@ -1,6 +1,6 @@
 # ROSSMANN REGRESSION PREDICT
 
-Link to the telegram bot: http://t.me/pre_ross_bot
+Link to the telegram bot: http://t.me/ross_pred_bot
 
 ![houses prices analytics](https://i.ibb.co/Tg5Dfxy/ross-regression.png)
 
