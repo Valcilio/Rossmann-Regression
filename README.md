@@ -4,7 +4,7 @@ Link to the telegram bot: http://t.me/ross_pred_bot
 
 ![houses prices analytics](https://i.ibb.co/Tg5Dfxy/ross-regression.png)
 
-**PREMISES:**
+## **PREMISES:**
 
 Rossmann owns a network of stores across the United States and, as such, has its stock as its greatest asset.
 
@@ -24,7 +24,7 @@ The conclusion was reached that what they really want to know is when they shoul
 
 Then the business question is: **"How much each store will sell in the next six weeks?"**
 
-**Attributes List:**
+## **Attributes List:**
 
 | Attributtes                      | Meaning                                                      |
 | -------------------------------- | ------------------------------------------------------------ |
@@ -44,7 +44,7 @@ Then the business question is: **"How much each store will sell in the next six 
 | Promo2Since[Year/Week]           | describes the year and calendar week when the store started participating in Promo2 |
 | PromoInterval                    | describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store |
 
-**Solution Plan:**
+## **Solution Plan:**
 
 Defined that what they need is a sales forecast for the next six weeks per store so the attitudes to be considered in response were defined:
 
@@ -66,17 +66,17 @@ With all the solution planned the item to show in the end was designed to be:
 - One telegram bot to the business people access all the information.
 - One video explaining the solution to the business people learn how use the solution.
 
-**Financial Results**
+## **Financial Results**
 
 With the results of the prediction is expected that the CEO be able to make the correct decisions about the stock allocated on each store and the marketing where invest more in marketing. Besides that, is expected that the CEO be able to predict the real value of gross revenue expected.
 
 This can be able to increase the financial gains until 50% because this can help the Rossmann to save money and increase the gross revenue through the correct allocation resources.
 
-**Next Steps**
+## **Next Steps**
 
 As next steps is expected to continue to feed the model to predict the next times week's sales and make a analysis about the results obtained with the prediction provided by the model to define the real gains with him. Besides that, is expected that is gettered more dates about the marketing and the store's design to increase the accuracy of the prediction and generate more value. 
 
-**Conclusion**
+## **Conclusion**
 
 On this way, Rossmann will be able to have a better use of its stock, increasing its profit by about 34% and enabling it to improve its decision making.
 
