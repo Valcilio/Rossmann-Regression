@@ -6,13 +6,23 @@ Link to the telegram bot: http://t.me/ross_pred_bot
 
 **PREMISES:**
 
-This project has as premise to help the company "Rossmann Store Sales", to predict its sales in the next six weeks.
+Rossmann owns a network of stores across the United States and, as such, has its stock as its greatest asset.
 
-Rossmann asked one main question:
+However, as the number of stores is very high and their stock is basically bought and then resold, they need to be very careful with the amount of products they buy to prevent there being an unnecessarily large cost of goods sold.
 
-1. What will be the sales value of each of my stores in the next six weeks and I can visualizate the results in my cellphone?
+Currently, as the sales prediction is done by an excel spreadsheet in the average model, they end up having a loss of up to 30% of their gross stock due to spoiled products and some stores always have a loss of up to 50% of customers due lack of stock at certain times.
 
-Then this project uses the 'XGBoost Regression' algorithm to solve this question and the telegram to make a bot to tell the results per store.
+***The Rossmann people came to the conclusion that with these metrics it is possible to increase the company's profits by up to 40% if they can allocate the inventory correctly, as this would save a good part of the wasted money, while at the same time they could supply the stores that could come running out of stock.***
+
+A meeting was held with Rossmann's managers, directors and the CEO where they decided to plan how the distribution of stock for the next month and a half would be done.
+
+However, they were unable to reach a satisfactory conclusion, as everyone thought something different, in order to reach a consensus they then opted to consult the company's data scientists, as they would have unbiased and factual information since they would use data and not opinions based on personal experience.
+
+Thus, after asking questions such as: "Why do you want to know the ideal stock for?"
+
+The conclusion was reached that what they really want to know is when they should invest in each store's inventory so that they don't have more inventory than they would actually sell.
+
+Then the business question is: **"How much each store will sell in the next six weeks?"**
 
 **Attributes List:**
 
@@ -36,7 +46,25 @@ Then this project uses the 'XGBoost Regression' algorithm to solve this question
 
 **Solution Plan:**
 
-The plan to solute this business problem was make a study about the best machine learning regression model to implement and make the prediction. With the prediction made about the sales of the next six weeks was make a bot in th telegram to tell the results to the CEO on his cellphone.
+Defined that what they need is a sales forecast for the next six weeks per store so the attitudes to be considered in response were defined:
+
+**1 -** Gain understanding of the data through a statistical and exploratory analysis of the data and also derive new columns of data.
+
+**2 -** Validation of business hypotheses to produce insights and manual selection of columns to be used that will add to the selection via algorithm.
+
+**3 -** Preparation of data for model training and model selection.
+
+**4 -** Selection of the best model parameters through the random search method.
+
+**5 -** Translation and interpretation of the error to transform the model result into business value.
+
+**6 -** Deployment of the model so that Rossmann's top leadership can access the results obtained at any time and be able to take decisions.
+
+With all the solution planned the item to show in the end was designed to be:
+
+- The accuracy of this model.
+- One telegram bot to the business people access all the information.
+- One video explaining the solution to the business people learn how use the solution.
 
 **Financial Results**
 
