@@ -78,4 +78,6 @@ As next steps is expected to continue to feed the model to predict the next time
 
 **Conclusion**
 
-Rossmann will be able to make a better preparation with the data obtained through being capable to reduce the expenses and increase the revenue.
+On this way, Rossmann will be able to have a better use of its stock, increasing its profit by about 34% and enabling it to improve its decision making.
+
+In addition, following the necessary next steps, it will be possible to further improve the model's accuracy by reducing its error, allowing for a brief increase in gross sales.
