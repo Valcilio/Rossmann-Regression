@@ -81,3 +81,9 @@ As next steps is expected to continue to feed the model to predict the next time
 On this way, Rossmann will be able to have a better use of its stock, increasing its profit by about 34% and enabling it to improve its decision making.
 
 In addition, following the necessary next steps, it will be possible to further improve the model's accuracy by reducing its error, allowing for a brief increase in gross sales.
+
+## **Learns**
+
+In this project I learned about all the way of a data science project, learning step by step of one project and a big amount of tools like regression models, libraries to statistic analysis and about how use the lambda.
+
+Besides that I learned about how construct a bot to the telegram and deploy models with Flask. 
