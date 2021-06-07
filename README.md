@@ -70,7 +70,7 @@ With all the solution planned the item to show in the end was designed to be:
 
 With the results of the prediction is expected that the CEO be able to make the correct decisions about the stock allocated on each store and the marketing where invest more in marketing. Besides that, is expected that the CEO be able to predict the real value of gross revenue expected.
 
-This can be able to increase the financial gains until 50% because this can help the Rossmann to save money and increase the gross revenue through the correct allocation resources.
+This can be able to increase the financial gains until 40% because this can help the Rossmann to save money and increase the gross revenue through the correct allocation resources.
 
 ## **Next Steps**
 
