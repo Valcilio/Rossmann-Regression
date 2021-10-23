@@ -6,23 +6,10 @@ import pandas as pd
 from flask import Flask, request, Response
 
 # constants
-TOKEN = '1637566081:AAHQPsb8EW5pDmieWSARmhWcH92_AkBzsCg'
+TOKEN =
 
-## Info about the Bot
-#https://api.telegram.org/bot944200092:AAHrHbZ1Q_LaJkVG6SZs6Em3qf6GdL5r-II/getMe
-#
-## get updates
-#https://api.telegram.org/bot944200092:AAHrHbZ1Q_LaJkVG6SZs6Em3qf6GdL5r-II/getUpdates
+# funções
 
-## Webhook
-#https://api.telegram.org/bot944200092:AAHrHbZ1Q_LaJkVG6SZs6Em3qf6GdL5r-II/setWebhook?url=https://meigarom-c4hh.localhost.run
-
-## Webhook Heroku
-#https://api.telegram.org/bot944200092:AAHrHbZ1Q_LaJkVG6SZs6Em3qf6GdL5r-II/setWebhook?url=https://rossmann-bot.herokuapp.com
-#
-## send message
-#https://api.telegram.org/bot944200092:AAHrHbZ1Q_LaJkVG6SZs6Em3qf6GdL5r-II/sendMessage?chat_id=449124440&text=Hi Meigarom, I am doing good, tks!
-#
 def send_message( chat_id, text ):
     url = 'https://api.telegram.org/bot{}/'.format( TOKEN ) 
     url = url + 'sendMessage?chat_id={}'.format( chat_id ) 
